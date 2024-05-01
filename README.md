@@ -1,4 +1,4 @@
-# Azure-AISearch-UI-
+# Azure-AISearch-UI
 
 ### Explore um Índice do Azure AI Search (UI)
 
